@@ -4,6 +4,7 @@ def using_while
 	while 
 	 current_levitation_force<10
 	 puts "wingardium leviosa"
+	 
 end 
 end
 using_while
